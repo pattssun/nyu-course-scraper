@@ -1,0 +1,91 @@
+LINGUISTICS
+Spring 2022
+
+Language
+LING-UA 1-001	                            Professor Lucas Champollion                                 M/W, 3:30PM - 4:45PM
+Satisfies Introductory course requirement and the Societies and Social Science component of the College Core Curriculum
+
+➣ This course is an introductory survey of the field of linguistics—the scientific study of language. During the semester, we will look at questions like the following: Is speaking an instinctual or a learned behavior? Why do children acquire language so much faster and easier than adults, and what are the stages of acquisition? What do the native speakers of a language know about the language’s word structure, sentence structure, sentence meaning, and pronunciation? How is language processed in the brain? How and why did language evolve into such a complex system? What is the relationship between language, social class, and race? The course will approach these questions from a scientific perspective, incorporating methodologies from mathematics and logic, as well as the social sciences (such as psychology and sociology). It will provide you with the necessary background to continue your studies in linguistics at a more advanced level if you choose to. It satisfies the Introductory Course requirement for Linguistics majors and is a prerequisite for some of the other courses. (For more information on this course, see champollion.com/language.)
+
+Language
+LING-UA 1-005	 Professor Gary Thoms	       M/W, 9:30AM - 10:45AM 
+Satisfies Introductory course requirement and the Societies and Social Science component of the College Core Curriculum
+
+➣ This course is an introductory survey of the field of linguistics—the scientific study of language. During the semester, we will look at questions like the following: Is speaking an instinctual or a learned behavior? Why do children acquire language so much faster and easier than adults, and what are the stages of acquisition? What do the native speakers of a language know about the language’s word structure, sentence structure, sentence meaning, and pronunciation? How is language processed in the brain? How and why did language evolve into such a complex system? What is the relationship between language, social class, and race? The course will approach these questions from a scientific perspective, incorporating methodologies from mathematics and logic, as well as the social sciences (such as psychology and sociology). It will provide you with the necessary background to continue your studies in linguistics at a more advanced level if you choose to. It satisfies the Introductory Course requirement for Linguistics majors and is a prerequisite for some of the other courses.
+
+Introduction to Psycholinguistics
+LING-UA 5-001/PSYCH-UA 56-001  		Professor Brian McElree			   F, 1:00PM - 3:30PM         
+PREREQUISITE: LING-UA 1 OR LING-UA 3 OR Permission of the Instructor
+
+➣ Psycholinguistics aims to understand the mental representations and processes that enable comprehension and production of written and spoken language.  This course examines behavioral research and computational models of core components of language use, including speech perception, lexical representations and access, and grammatical and semantic processing.
+
+Indigenous Languages of the Americas
+LING-UA 9-001	Professor Gillian Gallagher	           M, 12:30PM - 3:15PM
+
+➣ This course focuses on the social context of indigenous languages in North and South America, with an emphasis on language in education. The course also introduces concepts and skills from linguistics through analysis of the phonetics, phonology (i.e.'sounds') and morphology (i.e., 'words') of indigenous American languages. The first third of the course orients students towards the structural properties of language and the basics of linguistic analysis; assessments include linguistic data analysis. The second two-thirds of the course delve into the social context of indigenous languages and their speakers; assessments include reading presentations and written responses. We will discuss the social, economic and political factors that influence language use and particularly the shift from primary use of an indigenous language to primary use of a colonial language (e.g., English or Spanish). Topics covered include bilingualism, orthography school curriculum, language policy, and the intersection of language and human rights. This course has no pre-requisites, and is designed to appeal to students with a broad range of backgrounds and interests in language and linguistics, indigenous communities and indigenous identity, as well as education and social justice.
+
+Structure of the Russian Language
+LING-UA 10-001			Professor Stephanie Harves			        T/R, 9:30AM - 10:45AM
+PREREQUISITE: LING-UA 13 OR Permission of the Instructor
+
+➣ Russian is often cited as a language that has “free word order.” As we will see, this statement is incorrect. This course provides an introduction to the (morpho) syntax of the Russian language. Students will learn how to analyze the underlying structures of this language by using the formal tools developed in syntactic theory. We will focus on the following core areas of Russian grammar: Case, Aspect, Argument Structure alternations, Topic/Focus structure, Negation, Binding, Control, and Wh-movement. No knowledge of Russian is required. 
+
+Phonological Analysis
+LING-UA 12-001	Professor Juliet Stanton	     M/W, 3:30PM - 4:45PM
+PREREQUISITE: LING-UA 11 OR Permission of the Instructor Satisfies Phonology requirement
+
+➣ Phonology is the study of how speech sounds pattern and contrast. How do we know that 'gdin' is not a possible English word but 'krin' is? What does it take to recognize a foreign accent? How can sound systems of languages differ, what do all languages have in common, and what are the sorts of patterns not found in any human language? To answer these questions, we will focus on such concepts as sound classes, features, phonemes, allophones, and syllable structure, and we will look at the role these concepts play in the most common phonological processes in the world's languages. The course will also include a basic introduction to the phonology of stress, tone, and intonation. Analytical skills will be honed by solving phonological problems based on data from English and many other languages.
+
+Grammatical Analysis
+LING-UA 13-001	Professor Chris Collins	   M/W, 9:30AM -  10:45AM
+PREREQUISITE: LING-UA 1 OR LING-UA 3 OR Permission of the Instructor 
+Satisfies Syntax requirement
+
+➣ What determines the sequencing of words in a given language? How can we explain word order variation within and across languages? Are there universal syntactic properties common to the grammar of all languages? This course presents the motivation for the modern generative approach to the scientific study of language and systematically develops a model that will account for the most basic syntactic constructions of natural language. Skills in scientific argumentation and reasoning are developed by analyzing problems in the syntax of English and a number of other languages.
+
+Language and Society
+LING-UA 15-001		Professors Lisa Davidson & Laurel MacKenzie 	 	     T/R, 11:00AM - 12:15PM   
+This course satisfies the Societies and Social Science component of the College Core Curriculum   
+ 
+➣ Language is the medium of social interaction, and is tailored and manipulated for social purposes. Consequently, a language is not uniform, but rather reflects all the diversity of its users: language varies by region, class, gender, ethnicity, and age, and language is adapted by speakers to construct social identities and to accommodate different listeners and situations. This course explores contemporary issues in the social organization and significance of language. Topics include how language correlates with sociodemographic factors, language change, language attitudes, language contact and multilingualism, language policy and planning, and language in education. 
+
+Advanced Semantics
+LING-UA 19-001	Professor Anna Szabolcsi	     T/R, 2:00PM -  3:15PM
+PREREQUISITE: LING-UA 4 OR Permission of the Instructor 
+
+➣ This course prepares students for graduate-level coursework in semantics and the syntax-semantics interface, and generally aims to build interest and confidence in formal semantics. It starts with building a solid foundation in propositional and predicate logic, elements of the lambda calculus, and intensionality. It shows how those tools are useful in accounting for long-distance meaning relationships, quantification, and information structure, and issues that demand the encoding of the speaker and the addressee in the left periphery of clauses. Students are encouraged to write a short term paper.
+
+Sex, Gender, and Language
+LING-UA 21-001/SCA-UA 712-X001	TBD	    M/W, 4:55PM - 6:10PM
+
+➣ This course will examine gender from a multidisciplinary perspective and in particular as a sociolinguistic variable in speech behavior. We will discuss how gendered linguistic practices - intersecting with race and class-linked language - both reflect and shape our identity. We will also review the variability in the linguistic expression of gender in various languages and cultures around the world, as well as within the single national context of the United States. We will also discuss the constructionist argument that anatomy need not be linguistic destiny and that language may be used to perform social identities that do not match the individual’s biological characteristics. In this context, we will consider the limits and possibilities of gender self-[re]construction through language, including [re]naming strategies, and pronoun use, and coming-out stories. We will also consider the efficacy of language reform to reduce gender stereotyping and discrimination.
+
+Morphology
+LING-UA 29-001	Professor Maria Gouskova	M/W, 11:00AM - 12:15PM
+PREREQUISITE: LING-UA 1 or LING-UA 3 OR Permission of the Instructor
+
+➣ This course introduces linguistic morphology. We will study the rules for composing words and sentences from the smallest units of linguistic combination -- the "morphemes." Why can the same message be expressed in one word in some languages but requires an entire sentence in others? Why do the shapes of prefixes, suffixes and roots change depending on their semantic and phonological context? What rules do different languages use for forming new words?
+
+Language in Latin America
+LING-UA 30-001/SPAN-UA 403-001/LATC-UA 361-003	Professor Gregory Guy	T/R, 9:30AM - 10:45AM
+This course satisfies the Societies and Social Science component of the College Core Curriculum
+
+➣ This course examines the linguistics variety of Latin America - the region of the Americas where Spanish, Portuguese and French are the dominant languages. These languages have flourished and diversified in the Americas: the Spanish spoken in 20 countries of the New World shows dialect differences between regions and nations, and collective differences with European Spanish. Brazilian Portuguese is markedly different from its European source. This diversity is partly a result of contact with other languages currently or formerly spoken in Latin America, especially the indigenous (Native American) languages like Quechua, Guarani, and Nahuatl, and African languages like Yoruba and Kimbundu. The course examines regional and national dialect differences in Latin American Spanish and Portuguese. We also consider social diversity: the ways of speaking of people of different social classes or ethnic backgrounds. Other languages spoken in the region are also considered, including indigenous languages, languages of immigrant groups, and contact languages and creoles, such as Haitian Creole and Papiamentu. Finally, we study the linguistic history of Latin America: how and why the languages spoken there spread, developed, changed and interacted.
+
+Machine Learning for Language Understanding
+LING-UA 52-001/DS-UA 203-001	Professor Sam Bowman	W, 2:00PM - 3:15PM 
+PREREQUISITE: at least one course with a substantial Python programming component, such as Introduction to Computer Programming (No Prior Experience) (CSCI-UA 2) or Introduction to Computer Programming (Limited Prior Experience) (CSCI-UA 3), or an advanced CSCI-UA or other programming course; Calculus I (MATH-UA 121) or higher, or equivalent; and background in probability theory, e.g. Theory of Probability (MATH-UA 233); or permission of the instructor.
+
+➣ Building computational models that can understand human language has long been a goal for researchers in computational linguistics and in the area of artificial intelligence called natural language processing. Many of the biggest successes in research toward this goal have relied on machine learning: a family of methods that allow computers to learn to reproduce some human behavior by example, rather than by explicit programming. This course covers widely-used machine learning methods for language understanding—with a special focus on machine learning methods based on artificial neural networks—and culminates in a substantial final project in which students write an original research paper in AI or computational linguistics. If you take this class, you’ll be exposed only to a fraction of the many approaches that researchers have used to teach language to computers. However, you’ll get training and practice with all the research skills that you’ll need to explore the field further on your own. This includes not only the skills to design and build computational models, but also to design experiments to test those models, to write and present your results, and to read and evaluate results from the scientific literature.
+
+Introduction to Morphology at an Advanced Level
+LING-UA 55-001/LING-GA 1029-001	Professors Maria Gouskova & Alec Marantz	  M/W, 12:30PM - 1:45PM
+PREREQUISITE:  LING-UA 12 and LING-UA 13 or Permission of the Instructor 
+
+➣ This course examines the building blocks of words and sentences: the atomic units of word structure, their hierarchical and linear arrangement, and their phonological realization(s).  The course provides an introduction to fundamental issues in morphology, including allomorphy, morpheme order, paradigm structure, blocking, and cyclicity.  The field of morphology currently embraces much of what goes on in linguistics as a whole; syntax, morphology, phonology, semantics and variation all play an essential role, and their interactions will be highlighted here.
+
+First Language Acquisition
+LING-UA 59-001/PSYCH-UA 59-001	Professor Ailis Cournane	 T/R, 12:30PM - 1:45PM
+PREREQUISITE: LING-UA 1 or LING-UA 3 OR Permission of the Instructor
+
+➣ This course offers an overview of the field of first language acquisition. How does one develop from a pre- linguistic newborn infant to a mature language-user with a complex grammatical system (or systems)? What are the relative roles of inborn cognitive abilities and input (i.e., the language data the child hears or sees in their environment) in determining the properties and time course of language development? First language development is a multifaceted, robust phenomenon in our species that proceeds over many years of early life and provides an ultra-rich testing ground for psychological and linguistic theories. We will focus on linguistic development from birth through to early school age, looking at monolingual, bilingual, and atypical (e.g., Autism, Specific Language Impairment) populations. In the first half of the course we will focus on development in individual linguistic domains: phonology, vocabulary, morphosyntax, semantics, and pragmatics. In the latter half of the course, we will probe deeper into theoretical approaches to language acquisition, with a focus on primary literature and active debates in the field. We will also further explore the complex learning circumstances of certain populations, like children growing up bilingual and children presenting with atypical development, continually asking what evidence the diversity of learning situations brings to bear on the theoretical debates.
